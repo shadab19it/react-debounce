@@ -42,7 +42,7 @@ const App = () => {
 
   return (
     <div className='main-wrapper'>
-      <h1 className='title'>Debounce</h1>
+      <h1 className='title'>Instant Easy React Performance With Debounce</h1>
       <h1>Q ; What is Debounce ?</h1>
       <p>
         Debounce is simply the act of delaying some piece of code, in our case the fetch request, until after all the rapid changes are
